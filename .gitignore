@@ -3,6 +3,13 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+#datasets
+*.csv
+
+#others
+.DS_Store
+.idea/
+
 # C extensions
 *.so
 
