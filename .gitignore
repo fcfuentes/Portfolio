@@ -5,6 +5,14 @@ __pycache__/
 
 #datasets
 *.csv
+*.dbf
+*.prj
+*.qpj
+*.qpj
+*.shp
+*.shx
+/datacamp_projects/data/*.*
+/fire_prediction_project/data/*
 
 #others
 .DS_Store
